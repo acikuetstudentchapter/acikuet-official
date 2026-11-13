@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /404.html
 
-Sitemap: https://acikuet.pages.dev/sitemap.xml
+Sitemap: https://acikuet.vercel.app/sitemap.xml
