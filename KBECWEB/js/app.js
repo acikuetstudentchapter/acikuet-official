@@ -658,7 +658,7 @@ function initContactForm() {
     const emailPayload = {
       name: form.elements['name'] ? form.elements['name'].value : '',
       email: form.elements['email'] ? form.elements['email'].value : '',
-      subject: form.elements['subject'] ? form.elements['subject'].value : 'Official Inquiry from acikuet.org',
+      subject: form.elements['subject'] ? form.elements['subject'].value : 'Official Inquiry from ACI KUET Portal',
       message: form.elements['message'] ? form.elements['message'].value : '',
       _subject: 'Official Message Desk Inquiry: ' + (form.elements['subject'] ? form.elements['subject'].value : 'General'),
       _template: 'table',
