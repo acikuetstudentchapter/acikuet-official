@@ -1433,7 +1433,6 @@ section {
   color: var(--text-dark);
   font-weight: 900;
 }
-}
 
 [data-theme="dark"] .footer-bottom-legal {
   border-top-color: #1e293b;
@@ -1559,8 +1558,6 @@ section {
   color: #ffffff !important;
   transform: translateY(-2px);
   box-shadow: 0 4px 14px rgba(21, 128, 61, 0.35);
-}
-  justify-content: space-between;
 }
 
 /* ==========================================================================
